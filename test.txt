@@ -1,0 +1,1 @@
+Play Pause Stop Skip Rewind Forward Repeat Shuffle Replay Quit Restart Undo Redo Clear Add Remove Trash Track Playlist Author

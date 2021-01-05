@@ -1,0 +1,11 @@
+Nikola, Tesla, U0594837465, 400.0
+Stephen Hawking, U1029384756, 4.0
+Albert Einstein, U1234567890, 2.3
+Andrew Carnegie, U0987612345, 1.6
+Neil, Armstrong, U0594837465, 3.8
+Steve Jobs, U5432167890, 2.8
+Tony Stark, U5432167890, 3.9
+Charles Xavier, U5647382910, 4.0
+Bruce Wayne, U1627384950, 3.6
+Peter Parker, U0987654321, 4.0
+
